@@ -1,0 +1,34 @@
+h1 { color: red; }
+p { color: blue; }
+.hajime {
+color: blue;
+}
+tr { color: red; }
+#game{
+  color:green;
+}
+.gradient {
+color : rgb(85,107,47);
+background: linear-gradient(to right , #38a092 , #fdbf3b);
+color: white;
+}
+.back {
+background: orange;
+}
+.angled-gradient {
+  background: linear-gradient(70deg, blue, pink);
+}
+.text-big {
+font-size: 24px;
+}
+#１２ {
+color: yellow;
+}
+.text-big {
+font-size: 30px;
+}
+.text-big {
+font-size: 31px;
+}
+
+
